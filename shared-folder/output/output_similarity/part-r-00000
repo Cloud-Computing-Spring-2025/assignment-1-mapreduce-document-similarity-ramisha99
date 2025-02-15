@@ -1,0 +1,6 @@
+doc3.txt, doct1.txt	0.10
+doc3.txt, doc1.txt	0.10
+doc3.txt, doc2.txt	0.44
+doct1.txt, doc1.txt	1.00
+doct1.txt, doc2.txt	0.20
+doc1.txt, doc2.txt	0.20
